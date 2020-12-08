@@ -19,7 +19,7 @@
 */
 
 :root {
-    --blue: #5e72e4;
+    --blue: #FD8700;
     --indigo: #5603ad;
     --purple: #8965e0;
     --pink: #f3a4b5;
@@ -34,7 +34,7 @@
     --gray-dark: #32325d;
     --light: #ced4da;
     --lighter: #e9ecef;
-    --primary: #5e72e4;
+    --primary: #FD8700;
     --secondary: #f7fafc;
     --success: #2dce89;
     --info: #11cdef;
@@ -21434,7 +21434,7 @@ table.dataTable tbody>tr.selected {
 
 .dataTables_filter {
     display: inline-block;
-    float: right;
+    /* float: right; */
     padding-right: 1.5rem;
 }
 
