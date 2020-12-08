@@ -1,0 +1,6 @@
+{
+    "compile-hero.disable-compile-files-on-did-save-code": false,
+    "php.validate.executablePath": "C:\\wamp64\\bin\\php\\php7.3.10\\php.exe",
+    "php.executablePath": "C:\\wamp64\\bin\\php\\php7.3.10\\php.exe"
+
+}
